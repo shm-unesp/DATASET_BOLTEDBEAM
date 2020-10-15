@@ -9,7 +9,10 @@ Figure above presents the jointed structure investigated. The test rig is formed
 <img src="Schematic.jpg " width="25%">
 
 
+________________________________________________________________________________
+The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited.
 
+This dataset was used in these papers:
 
 TELOLI, R. O. ; da Silva, Samuel ; Ritto, T. G. ; CHEVALLIER, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, 2020. 
 
