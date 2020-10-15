@@ -4,9 +4,9 @@ The experimental test rig is nonlinearly dependent on excitation amplitude, pres
 
 <img src="TestBench.jpg " width="35%">
 
-<img src="esquema.png " width="40%">
+The figure above presents the joint structure investigated. The test rig comprises two aluminum beams, each with dimensions of 270 mm x 25.4 mm x 6.35 mm, and assembled by a bolted-joint connection with a tightening torque of 5 Nm. The structure's excitation was conducted by a Modal Shop 2400E shaker located at 85 mm from the clamped end of the cantilever beam to minimize shaker/structure interaction. Due to observability purposes for modeling the structure's first vibration mode, the system output was measured at the free end of the beam, using a laser vibrometer Polytec OFV-525/5000S. The schematic top view of the experimental setup is shown below.
 
-The figure above presents the joint structure investigated. The test rig comprises two aluminum beams, each with dimensions of 270 mm x 25.4 mm x 6.35 mm, and assembled by a bolted-joint connection with a tightening torque of 5 Nm. The structure's excitation was conducted by a Modal Shop 2400E shaker located at 85 mm from the clamped end of the cantilever beam to minimize shaker/structure interaction. Due to observability purposes for modeling the structure's first vibration mode, the system output was measured at the free end of the beam, using a laser vibrometer Polytec OFV-525/5000S.
+<img src="esquema.png " width="40%">
 
 The data acquisition system was the LMS SCADAS. The structure was excited using different levels of input amplitude 0.05 V (low), 0.10 V (medium) and
 0.20 V (high). This paper regards the voltage supplied by the shaker amplifier  as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
@@ -20,4 +20,4 @@ TELOLI, R. O. ; da Silva, Samuel ; Ritto, T. G. ; CHEVALLIER, G. . Bayesian Mode
 
 Miguel, L. P. ; TELOLI, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842
 
-TELOLI, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 121, p. 856-875, 2019. https://linkinghub.elsevier.com/retrieve/pii/S0888327018307659
+TELOLI, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044
