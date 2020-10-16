@@ -21,3 +21,5 @@ TELOLI, R. O. ; da Silva, Samuel ; Ritto, T. G. ; CHEVALLIER, G. . Bayesian Mode
 Miguel, L. P. ; TELOLI, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842
 
 TELOLI, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044
+
+São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
