@@ -79,28 +79,9 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
 __________________________________________________________________________________________________
 # License
 
-{
-    "name": "Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)",
-    "priority": 1,
-    "available": true,
-    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "description": "A creative commons license that bans commercial use and requires you to release any modified works under this license.",
-    "categories": [
-        "public",
-        "data",
-        "by",
-        "nc",
-        "sa"
-    ],
-    "labels": [
-        "public",
-        "cc",
-        "by",
-        "nc",
-        "sa"
-    ],
-    "key": "cc-by-nc-sa"
-}
+Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
+
+A creative commons license that bans commercial use and requires you to release any modified works under this license.
 
 __________________________________________________________________________________________________
 # Funding
