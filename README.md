@@ -36,7 +36,7 @@ Teloli, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic 
 __________________________________________________________________________________________________
 # How to cite
 
-If you are using a LaTeX Editor, you can cite the papers above using these bibtex citations:
+If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
 ```
 @article{teloli2020bayesian,
