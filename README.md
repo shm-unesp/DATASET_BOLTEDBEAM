@@ -1,6 +1,6 @@
 # Vibration Data of a Bolted Joint Structure
 
-To upload the data set, please fill the form:
+To download the data set, please fill the form:
 
 https://docs.google.com/forms/d/e/1FAIpQLSewQPZ86EY4Szdf9VyXSJ1L3XUdVSiBnDP09LvhwL8pRZDecg/viewform?usp=pp_url
 
