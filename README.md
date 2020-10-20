@@ -4,9 +4,9 @@ To download the data set, please fill the form:
 
 https://forms.gle/2PUVefGLegZbkpKt5
 
-São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
+São Paulo Research Foundation (FAPESP), Brazilian National Council for Scientific and Technological Developmen (CNPq), and Brazilian Coordination for the Improvement of Higher Education Personnel (CAPES/Brasil)-Finance Code 001 funded this experimental setup.
 
-<img src="apoio.png " width="35%">
+<img src="sponsors.jpg " width="50%">
 
 __________________________________________________________________________________________________
 # Description
