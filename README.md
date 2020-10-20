@@ -33,3 +33,37 @@ Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel . Some practical regards on the
 
 Teloli, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044
 
+__________________________________________________________________________________________________
+# How to cite
+
+If you are using a LaTeX Editor, you can cite the papers above using these bibtex citations:
+
+```
+@article{teloli2020bayesian,
+  title={Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints},
+  author={Teloli, Rafael de O and da Silva, Samuel and Ritto, Thiago Gamboa and Chevallier, Ga{\"e}l},
+  journal={Mechanical Systems and Signal Processing},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{miguel2020some,
+  title={Some practical regards on the application of the harmonic balance method for hysteresis models},
+  author={Miguel, Luccas Pereira and de Oliveira Teloli, Rafael and da Silva, Samuel},
+  journal={Mechanical Systems and Signal Processing},
+  volume={143},
+  pages={106842},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{teloli2019new,
+  title={A new way for harmonic probing of hysteretic systems through nonlinear smooth operators},
+  author={Teloli, Rafael de O and da Silva, Samuel},
+  journal={Mechanical Systems and Signal Processing},
+  volume={121},
+  pages={856--875},
+  year={2019},
+  publisher={Elsevier}
+}
+```
