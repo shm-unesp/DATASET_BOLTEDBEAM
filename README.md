@@ -25,9 +25,9 @@ The data acquisition system was the LMS SCADAS. The structure was excited using 
 __________________________________________________________________________________________________
 # Authors
 
-style="padding-left: 30px;"<li>Rafael Teloli</li>
-style="padding-left: 30px;"<li>Luccas Miguel</li>
-style="padding-left: 30px;"<li>Samuel da Silva</li>
+  <li>Rafael Teloli</li>
+  <li>Luccas Miguel</li>
+  <li>Samuel da Silva</li>
 
 __________________________________________________________________________________________________
 # References
