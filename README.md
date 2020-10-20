@@ -29,11 +29,11 @@ The data are still available for non-commercial research under the following ter
 
 This dataset was used in these papers:
 
-Teloli, R. O. ; da Silva, Samuel ; Ritto, T. G. ; Chevalier, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, 2020. 
+Teloli, R. O. ; da Silva, Samuel ; Ritto, T. G. ; Chevalier, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. Mechanical Systems and Signal Processing, 2020. 
 
-Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842
+Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. Mechanical Systems and Signal Processing, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842
 
-Teloli, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. MECHANICAL SYSTEMS AND SIGNAL PROCESSING, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044
+Teloli, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. Mechanical Systems and Signal Processing, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044
 
 __________________________________________________________________________________________________
 # How to cite
