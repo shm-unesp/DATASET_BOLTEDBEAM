@@ -77,7 +77,7 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
 __________________________________________________________________________________________________
 # License
 
-<img src="licenca.png " width="40%">
+<img src="licenca.png" width="40%">
 Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
 
 A creative commons license that bans commercial use and requires you to release any modified works under this license.
