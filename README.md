@@ -54,7 +54,8 @@ If you are using a LaTeX Editor, you can cite the papers above using these bibte
   volume={143},
   pages={106842},
   year={2020},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.ymssp.2020.106842}
 }
 
 @article{teloli2019new,
@@ -64,6 +65,7 @@ If you are using a LaTeX Editor, you can cite the papers above using these bibte
   volume={121},
   pages={856--875},
   year={2019},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.ymssp.2018.11.044}
 }
 ```
