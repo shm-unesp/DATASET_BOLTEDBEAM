@@ -2,7 +2,7 @@
 
 To download the data set, please fill the form:
 
-https://docs.google.com/forms/d/e/1FAIpQLSewQPZ86EY4Szdf9VyXSJ1L3XUdVSiBnDP09LvhwL8pRZDecg/viewform?usp=pp_url
+https://forms.gle/2PUVefGLegZbkpKt5
 
 São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
 
