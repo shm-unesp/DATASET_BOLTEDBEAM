@@ -23,6 +23,13 @@ The data acquisition system was the LMS SCADAS. The structure was excited using 
 0.20 V (high). This paper regards the voltage supplied by the shaker amplifier  as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
 
 __________________________________________________________________________________________________
+# Authors
+
+<li>Rafael Teloli</li>
+<li>Luccas Miguel</li>
+<li>Samuel da Silva</li>
+
+__________________________________________________________________________________________________
 # References
 
 The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as UNESP-BERT.
