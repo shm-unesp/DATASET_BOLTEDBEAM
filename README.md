@@ -4,10 +4,6 @@ To download the data set of vibration of a bolted joint structure from UNESP SHM
 
 https://forms.gle/2PUVefGLegZbkpKt5
 
-São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 	16/21973-5, 18/14528-0, 19/06540-3, 19/19684-3, Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
-
-<img src="sponsors.jpg " width="50%">
-
 __________________________________________________________________________________________________
 # Description
 
@@ -78,3 +74,37 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
   doi = {https://doi.org/10.1016/j.ymssp.2018.11.044}
 }
 ```
+
+
+__________________________________________________________________________________________________
+# License
+
+{
+    "name": "Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)",
+    "priority": 1,
+    "available": true,
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "description": "A creative commons license that bans commercial use and requires you to release any modified works under this license.",
+    "categories": [
+        "public",
+        "data",
+        "by",
+        "nc",
+        "sa"
+    ],
+    "labels": [
+        "public",
+        "cc",
+        "by",
+        "nc",
+        "sa"
+    ],
+    "key": "cc-by-nc-sa"
+}
+
+__________________________________________________________________________________________________
+# Funding
+
+São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 	16/21973-5, 18/14528-0, 19/06540-3, 19/19684-3, Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
+
+<img src="sponsors.jpg " width="50%">
