@@ -74,11 +74,10 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
   doi = {https://doi.org/10.1016/j.ymssp.2018.11.044}
 }
 ```
-
-
 __________________________________________________________________________________________________
 # License
 
+<img src="licenca.png " width="40%">
 Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
 
 A creative commons license that bans commercial use and requires you to release any modified works under this license.
