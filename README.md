@@ -1,4 +1,4 @@
-# UNESP - BERT: BoltEd stRucTure from UNESP SHM Lab
+# UNESP-BERT: BoltEd stRucTure from UNESP SHM Lab
 
 To download the data set of vibration of a bolted joint structure from UNESP SHM Lab, please fill the form:
 
