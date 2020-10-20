@@ -6,6 +6,7 @@ https://forms.gle/2PUVefGLegZbkpKt5
 
 São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
 
+<img src="TestBench.jpg " width="35%">
 __________________________________________________________________________________________________
 # Description
 
