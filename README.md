@@ -4,7 +4,7 @@ To download the data set, please fill the form:
 
 https://forms.gle/2PUVefGLegZbkpKt5
 
-São Paulo Research Foundation (FAPESP), Brazilian National Council for Scientific and Technological Developmen (CNPq), and Brazilian Coordination for the Improvement of Higher Education Personnel (CAPES/Brasil)-Finance Code 001 funded this experimental setup.
+São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 	16/21973-5, 18/14528-0, 19/06540-3, 19/19684-3, Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
 
 <img src="sponsors.jpg " width="50%">
 
