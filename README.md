@@ -1,10 +1,10 @@
 # Vibration Data of a Bolted Joint Structure
 
-São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
-
 To upload the data set, please fill the form:
 
 https://docs.google.com/forms/d/e/1FAIpQLSewQPZ86EY4Szdf9VyXSJ1L3XUdVSiBnDP09LvhwL8pRZDecg/viewform?usp=pp_url
+
+São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
 
 __________________________________________________________________________________________________
 # Description
