@@ -26,20 +26,17 @@ ________________________________________________________________________________
   <li>Samuel da Silva</li>
 
 __________________________________________________________________________________________________
-# References
+# How to cite
 
 The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as UNESP-BERT.
 
 This dataset was used in these papers:
 
-Teloli, R. O. ; da Silva, Samuel ; Ritto, T. G. ; Chevalier, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. Mechanical Systems and Signal Processing, 2020. 
+  <li>Teloli, R. O. ; da Silva, Samuel ; Ritto, T. G. ; Chevalier, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. Mechanical Systems and Signal Processing, 2020. </li><br>
 
-Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. Mechanical Systems and Signal Processing, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842
+  <li>Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. Mechanical Systems and Signal Processing, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842</li><br>
 
-Teloli, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. Mechanical Systems and Signal Processing, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044
-
-__________________________________________________________________________________________________
-# How to cite
+  <li>Teloli, R. O. ; da Silva, Samuel . A new way for harmonic probing of hysteretic systems through nonlinear smooth operators. Mechanical Systems and Signal Processing, v. 121, p. 856-875, 2019. https://doi.org/10.1016/j.ymssp.2018.11.044</li><br>
 
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
@@ -78,7 +75,7 @@ ________________________________________________________________________________
 # License
 
 <img src="licenca.png" width="10%">
-Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
+Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA):
 
 A creative commons license that bans commercial use and requires you to release any modified works under this license.
 
