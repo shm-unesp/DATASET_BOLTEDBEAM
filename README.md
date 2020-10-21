@@ -15,8 +15,13 @@ The figure above presents the joint structure investigated. The test rig compris
 
 <img src="esquema.png " width="40%">
 
-The data acquisition system was the LMS SCADAS. The structure was excited using different levels of input amplitude 0.05 V (low), 0.10 V (medium) and
-0.20 V (high). This paper regards the voltage supplied by the shaker amplifier  as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
+The data acquisition system was the LMS SCADAS. Several excitation tests were conducted on the structure:
+<li> Sweeping sine tests over the frequency ranges of 0 up to 40 Hz and 70 up to 110 Hz, both with a sweep rate of 5 Hz/s, and 0 up to 110 Hz with a sweep rate of 13.75 Hz/s; </li><br>
+<li> White noise excitation over the frequency range of 0-110 Hz; </li><br>
+<li> Stepped sine tests over the frequency range of 3 up to 23 Hz, with a sweep rate of 1 Hz/min; </li><br>
+<li> Pure sine in steady state regime at the following frequencies: 5, 5.5, 6, 6.5, 6.75, 8, 8.5, 9, 9.5, 9.75, 16, 17, 18 and 19 Hz, with a total testing time at each frequency of 64 seconds. </li><br>
+
+For each excitation test, the different levels of input amplitude 0.05 V (low), 0.10 V (medium) and 0.20 V (high) were supplied in the shaker amplifier. This paper regards the voltage supplied by the shaker amplifier as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
 
 __________________________________________________________________________________________________
 # Authors
