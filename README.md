@@ -21,7 +21,7 @@ The data acquisition system was the LMS SCADAS. Several excitation tests were co
 <li> Stepped sine tests over the frequency range of 3 up to 23 Hz, with a sweep rate of 1 Hz/min; </li><br>
 <li> Pure sine in steady state regime at the following frequencies: 5, 5.5, 6, 6.5, 6.75, 8, 8.5, 9, 9.5, 9.75, 16, 17, 18 and 19 Hz, with a total testing time at each frequency of 64 seconds. </li><br>
 
-For each excitation test, the different levels of input amplitude 0.05 V (low), 0.10 V (medium) and 0.20 V (high) were supplied in the shaker amplifier. This paper regards the voltage supplied by the shaker amplifier as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
+For each excitation test, the different levels of input amplitude 0.05 V (low), 0.10 V (medium), and 0.20 V (high) were supplied in the shaker amplifier. This experimental setup regards the shaker amplifier's voltage as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
 
 __________________________________________________________________________________________________
 # Authors
