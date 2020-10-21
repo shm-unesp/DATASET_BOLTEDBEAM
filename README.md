@@ -18,11 +18,10 @@ The figure above presents the joint structure investigated. The test rig compris
 The data acquisition system was the LMS SCADAS. Several excitation tests were conducted on the structure:
 <li> Sweeping sine tests over the frequency ranges of 0 up to 40 Hz and 70 up to 110 Hz, both with a sweep rate of 5 Hz/s, and 0 from up to 110 Hz with a sweep rate of 13.75 Hz/s; </li><br>
 <li> White noise excitation over the frequency range of 0-110 Hz; </li><br>
-<li> Stepped sine tests over the frequency range of 3 up to 23 Hz, with a sweep rate of 1 Hz/min; </li><br>
+<li> Stepped sine tests over the frequency range of 3 to 23 Hz, 23 to 3 Hz, 85 to 105 Hz and 105 to 85 Hz, with a testing time at each frequency of 32 seconds and a frequency step of 0.1 Hz; </li><br>
 <li> Pure sine in steady state regime at the following frequencies: 5, 5.5, 6, 6.5, 6.75, 8, 8.5, 9, 9.5, 9.75, 16, 17, 18 and 19 Hz, with a total testing time at each frequency of 64 seconds. </li><br>
 
-For each excitation test, the different levels of input amplitude 0.05 V (low), 0.10 V (medium), and 0.20 V (high) were supplied in the shaker amplifier. This experimental setup regards the shaker amplifier's voltage as the excitation signal since it is easier to keep this signal constant over a frequency range. All signals were measured with a sampling frequency of 1024 Hz.
-
+For the stepped sine test, the different levels of input amplitude 0.05 V (low), 0.10 V (medium) and 0.15 V (high), for the frequency range 3 to 23 Hz, and 0.01 V (low), 0.05 V (medium) and 0.10 V (high), for the frequency range 85 to 105 Hz, were supplied in the shaker amplifier. These signals were measured with a sampling frequency of 1600 Hz. For the other tests, the levels of input amplitude were 0.05 V, 0.10 V, 0.15 V, 0.20 V, 0.25 V and 0.30 V. These signals were measured with a sampling frequency of 1024 Hz. This experimental setup regards the shaker amplifier's voltage as the excitation signal since it is easier to keep this signal constant over a frequency range.
 __________________________________________________________________________________________________
 # Authors
 
