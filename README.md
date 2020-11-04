@@ -7,11 +7,11 @@ https://forms.gle/2PUVefGLegZbkpKt5
 __________________________________________________________________________________________________
 # Description
 
-The experimental test rig is nonlinearly dependent on excitation amplitude, presenting the friction joints' well-known softening effect. The structure presents data variation related to the presence of uncertainties in the measurement process. The experimental measurements were conducted through different days, and only the tightening torque in the joint connection was controlled after each experimental realization. 
+The experimental test rig is nonlinearly dependent on excitation amplitude, presenting the friction joints' well-known softening effect. The structure presents data variation related to the presence of uncertainties in the measurement process. The experimental measurements were conducted through different days, and only the tightening torque in the joint connection was controlled after each experimental realization by a torque wrench. The dataset consists of vibration tests performed for three different tightening torques, which were: 5, 7, and 9 Nm. The tightening torque on both bolts was always the same for each realization.
 
 <img src="TestBench.jpg " width="35%">
 
-The figure above presents the joint structure investigated. The test rig comprises two aluminum beams, each with dimensions of 270 mm x 25.4 mm x 6.35 mm, and assembled by a bolted-joint connection with a tightening torque of 5 Nm. The structure's excitation was conducted by a Modal Shop 2400E shaker located at 85 mm from the clamped end of the cantilever beam to minimize shaker/structure interaction. Due to observability purposes for modeling the structure's first vibration mode, the system output was measured at the free end of the beam, using a laser vibrometer Polytec OFV-525/5000S. The schematic top view of the experimental setup is shown below.
+The figure above presents the joint structure investigated. The test rig comprises two aluminum beams, each with dimensions of 270 mm x 25.4 mm x 6.35 mm, and assembled by a bolted-joint connection. The structure's excitation was conducted by a Modal Shop 2400E shaker located at 85 mm from the clamped end of the cantilever beam to minimize shaker/structure interaction. Due to observability purposes for modeling the structure's first vibration mode, the system output was measured at the free end of the beam, using a laser vibrometer Polytec OFV-525/5000S. The schematic top view of the experimental setup is shown below.
 
 <img src="esquema.png " width="40%">
 
