@@ -7,7 +7,7 @@ https://forms.gle/2PUVefGLegZbkpKt5
 __________________________________________________________________________________________________
 # Description
 
-The experimental test rig is nonlinearly dependent on excitation amplitude, presenting the friction joints' well-known softening effect. The structure presents data variation related to the presence of uncertainties in the measurement process. The experimental measurements were conducted through different days, and only the tightening torque in the joint connection was controlled after each experimental realization by a torque wrench. The dataset consists of vibration tests performed for three different tightening torques, which were: 5, 7, and 9 Nm. The tightening torque on both bolts was always the same for each realization.
+The experimental test rig is nonlinearly dependent on excitation amplitude, presenting the friction joints' well-known softening effect. The structure presents data variation related to the presence of uncertainties in the measurement process. The experimental measurements were conducted through different days, and only the tightening torque in the joint connection was controlled after each experimental realization by a torque wrench. The dataset consisted of vibration tests performed for three different tightening torques: 5, 7, and 9 Nm. The tightening torque on both bolts was always the same for each realization.
 
 <img src="TestBench.jpg " width="35%">
 
