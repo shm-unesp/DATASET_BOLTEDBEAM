@@ -38,7 +38,7 @@ This dataset was used in these papers:
 
  <li>R. O. Teloli, L. G. G. Villani, S. da Silva, M. D. Todd. On the use of the GP-NARX model for predicting hysteresis effects of bolted joint structures. Mechanical Systems and Signal Processing, vol. 159, p. 107751, 2021, https://doi.org/10.1016/j.ymssp.2021.107751</li><br>
  
- <li> Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel. Harmonic Balance of Bouc-Wen Model to Identify Hysteresis Effects in Bolted Joints. In: Balthazar J.M. (eds) Vibration Engineering and Technology of Machinery. Mechanisms and Machine Science, vol 95. Springer, 2021, https://doi.org/10.1007/978-3-030-60694-7_4
+ <li> Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel. Harmonic Balance of Bouc-Wen Model to Identify Hysteresis Effects in Bolted Joints. In: Balthazar J.M. (eds) Vibration Engineering and Technology of Machinery. Mechanisms and Machine Science, vol 95. Springer, 2021, https://doi.org/10.1007/978-3-030-60694-7_4</li><br>
 
   <li>Teloli, R. O. ; da Silva, Samuel ; Ritto, T. G. ; Chevalier, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. Mechanical Systems and Signal Processing, v. 151, p. 107333, 2021, https://doi.org/10.1016/j.ymssp.2020.107333 </li><br>
 
@@ -61,9 +61,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0888327021001461},
 }
 
 @InProceedings{10.1007/978-3-030-60694-7_4,
-author="Pereira Miguel, Luccas
-and Oliveira Teloli, Rafael de
-and Silva, Samuel da",
+author="Pereira Miguel, Luccas and Oliveira Teloli, Rafael de and Silva, Samuel da",
 editor="Balthazar, Jos{\'e} Manoel",
 title="Harmonic Balance of Bouc-Wen Model to Identify Hysteresis Effects in Bolted Joints",
 booktitle="Vibration Engineering and Technology of Machinery",
