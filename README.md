@@ -36,6 +36,8 @@ The data are still available for non-commercial research under the following ter
 
 This dataset was used in these papers:
 
+ <li>R. O. Teloli, L. G. G. Villani, S. da Silva, M. D. Todd. On the use of the GP-NARX model for predicting hysteresis effects of bolted joint structures. Mechanical Systems and Signal Processing, vol. 159, p. 107751, 2021, https://doi.org/10.1016/j.ymssp.2021.107751</li><br>
+
   <li>Teloli, R. O. ; da Silva, Samuel ; Ritto, T. G. ; Chevalier, G. . Bayesian Model Identification of Higher-Order Frequency Response Functions for Structures Assembled by Bolted Joints. Mechanical Systems and Signal Processing, v. 151, p. 107333, 2021, https://doi.org/10.1016/j.ymssp.2020.107333 </li><br>
 
   <li>Miguel, L. P. ; Teloli, R. O. ; da Silva, Samuel . Some practical regards on the application of the harmonic balance method for hysteresis models. Mechanical Systems and Signal Processing, v. 143, p. 106842, 2020. https://doi.org/10.1016/j.ymssp.2020.106842</li><br>
@@ -45,6 +47,17 @@ This dataset was used in these papers:
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
 ```
+@article{DEOLIVEIRATELOLI2021107751,
+title = {On the use of the GP-NARX model for predicting hysteresis effects of bolted joint structures},
+journal = {Mechanical Systems and Signal Processing},
+volume = {159},
+pages = {107751},
+year = {2021},
+issn = {0888-3270},
+doi = {https://doi.org/10.1016/j.ymssp.2021.107751},
+url = {https://www.sciencedirect.com/science/article/pii/S0888327021001461},
+}
+
 @article{TELOLI2021107333,
 title = "Bayesian model identification of higher-order frequency response functions for structures assembled by bolted joints",
 journal = "Mechanical Systems and Signal Processing",
